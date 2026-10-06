@@ -18,8 +18,8 @@
 ### 1. 准备工作
 需要的软件：
     1. Root 管理器（看你自己喜好，本教程以 Magisk 为例）
-    2. [MT管理器](mt.cc)
-    3. [TapTap](taptap.cn)
+    2. [MT管理器](https://mt.cc/)
+    3. [TapTap](https://taptap.cn/)
     4. Phigros
     5. 需要修改的键值
 2. 使用 `Shizuku` 在 root 下运行。

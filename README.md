@@ -21,14 +21,18 @@
  2. [MT管理器](https://mt.cc)<br>
  3. [TapTap](https://taptap.cn)<br>
  4. [Phigros](https://www.taptap.cn/app/165287)<br>
- 5. [需要修改的键值](https://github.com/MoYanJun1110/Pgr-100TB-Data-XML/blob/main/com.PigeonGames.Phigros.v2.playerprefs.xml)
+ 5. [需要修改的键值](/com.PigeonGames.Phigros.v2.playerprefs.xml)
 
+### 2. 备份存档
+ 1. 打开 TapTap，检查 Phigros 是否为最新版本，如果不是，请更新
+ 2. 打开 Phigros，点击右下角的“设置”→“账号与统计”→“立即同步”
 
-4. 打开：
-
+### 3. 修改存档
+ 1. 打开 MT管理器<br>Magisk 弹窗提示是否授予 Root 权限<br>选择是
+ 2. 打开
 ```text
 /data/user/0/com.PigeonGames.Phigros/shared_prefs/com.PigeonGames.Phigros.v2.playerprefs.xml
 ```
-
-5. 在 `com.PigeonGames.Phigros.v2.playerprefs.xml` 里填入对应的头像 XML 值。
-6. 保存后，移动或删除 MT 管理器自动生成的备份文件即可
+ 3. 打开`com.PigeonGames.Phigros.v2.playerprefs.xml`
+ 4. 将[需要修改的键值](/com.PigeonGames.Phigros.v2.playerprefs.xml)里对应的键值替换到你的存档里
+ 5. 点击右上角保存，删除后缀为`bak`的文件即可

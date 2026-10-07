@@ -1,0 +1,23 @@
+<!--
+A9haRziqy0lkvyRaDR6ALSl8CL48BFm2IfVQgovyeN0%3D
+
+kxFN1m19oUE0snaI%2BvkEMw%3D%3D
+
+yzqJdi9VhwywtKh2mCLE4w%3D%3D
+
+unity.player_session_count
+
+unity.player_sessionid
+
+把你存档的这几个键值改成下方对应的值就可以了
+-->
+
+    <string name="A9haRziqy0lkvyRaDR6ALSl8CL48BFm2IfVQgovyeN0%3D">2Zy6gnckhcnltlh66eM6FA%3D%3D</string>
+    
+    <string name="kxFN1m19oUE0snaI%2BvkEMw%3D%3D">z%2BK3RDnAbkNP1h3eCsztpw%3D%3D</string>
+    
+    <string name="yzqJdi9VhwywtKh2mCLE4w%3D%3D">2Zy6gnckhcnltlh66eM6FA%3D%3D</string>
+    
+    <string name="unity.player_session_count">2</string>
+    
+    <string name="unity.player_sessionid">7181567276974796645</string>

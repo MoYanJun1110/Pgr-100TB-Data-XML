@@ -16,14 +16,14 @@
 ## 修改教程
 
 ### 1. 准备工作
-需要的软件：
-    1. Root 管理器（看你自己喜好，本教程以 Magisk 为例）
-    2. [MT管理器](https://mt.cc/)
-    3. [TapTap](https://taptap.cn/)
-    4. Phigros
-    5. 需要修改的键值
-2. 使用 `Shizuku` 在 root 下运行。
-3. 授权给 MT 管理器。
+请提前准备好：<br>
+ 1. Root 管理器（本教程以 [Magisk](https://github.com/topjohnwu/Magisk) 为例）<br>
+ 2. [MT管理器](https://mt.cc)<br>
+ 3. [TapTap](https://taptap.cn)<br>
+ 4. [Phigros](https://www.taptap.cn/app/165287)<br>
+ 5. [需要修改的键值](https://github.com/MoYanJun1110/Pgr-100TB-Data-XML/blob/main/com.PigeonGames.Phigros.v2.playerprefs.xml)
+
+
 4. 打开：
 
 ```text
